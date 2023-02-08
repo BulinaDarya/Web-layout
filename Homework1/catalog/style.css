@@ -1,0 +1,93 @@
+.a {
+    text-decoration: none;
+}
+
+.body {
+    margin: 5px;
+    background-color: white;
+}
+
+.title2 {
+    color: b;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+
+.menu {
+    color: blue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.head {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.Someclass {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+
+.header {
+    color: white;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.main {
+    padding: 0 20px;
+    overflow: hidden;
+}
+
+.p {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+.img {
+    float: left;
+    margin-right: 10px;
+    padding: 10px;
+    ;
+
+}
+
+.second {
+    color: green;
+}
+
+.box {
+    background: url(./img/фон.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.footer {
+    padding: 20px;
+    background-image: url(/img/footer.png);
+    background-position: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
